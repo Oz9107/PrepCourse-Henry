@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este en un repositorio de prueba del modulo 2 de henry
+prueba de como crear un repositorio y crearlo desde githut a mi computadora.
